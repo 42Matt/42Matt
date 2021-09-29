@@ -3,6 +3,7 @@ I'm working on to become front-end developer.
 
 My core stack: React, Next.js, Gatsby, TypeScript
 Animation of my core stack in three.js & react-three-fiber:
+
 https://42matt.github.io/dev-stack/
 
 
