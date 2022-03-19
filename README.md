@@ -14,7 +14,9 @@ https://42matt.github.io/dev-stack/
 https://www.codewars.com/users/42Matt/
 
 <img src="https://www.codewars.com/users/42Matt/badges/large" alt="Codewars rank badge" />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=42matt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=42Matt)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **42Matt/42Matt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
