@@ -35,10 +35,10 @@ My core stack: React, Next.js, Gatsby, TypeScript.
 
 
 #### Projects:
+Live: </br>
+https://42matt.github.io/dev-stack/ </br> 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=42matt&repo=dev-stack&theme=github_dark)](https://github.com/42Matt/dev-stack)
 
-Animation of my core stack in three.js & react-three-fiber:
-
-https://42matt.github.io/dev-stack/
 
 
 #### Codewars: 
@@ -49,11 +49,20 @@ https://42matt.github.io/dev-stack/
 
 #### Stats:
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=42matt&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=42matt&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=42Matt)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<!-- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=42matt&show_icons=true&theme=github_dark)
+-->
+
+<!--
+```mermaid
+flowchart LR
+   A ==> B
+```
+-->
 <!--
 **42Matt/42Matt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
