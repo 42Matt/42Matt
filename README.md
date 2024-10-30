@@ -1,7 +1,5 @@
-### Hello 👋
+### 
 
-
-My core stack: React, Next.js, TypeScript.
 <div id="badges">
 <!-- <a href="https://www.mcraft.dev" target="_blank">  -->
  <!-- <img src="https://img.shields.io/badge/My_Website-orange?style=for-the-badge&logo=gatsby&logoColor=white" alt="LinkedIn Badge"/>  -->
@@ -20,8 +18,9 @@ My core stack: React, Next.js, TypeScript.
  </a>
 </br>
 
-#### Stats:
+
  <!--
+ #### Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=42matt&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 -->
 
