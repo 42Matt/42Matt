@@ -21,9 +21,9 @@ My core stack: React, Next.js, TypeScript.
 </br>
 
 #### Stats:
- 
+ <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=42matt&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+-->
 
 
 <!-- 
